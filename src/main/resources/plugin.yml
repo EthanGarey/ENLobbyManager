@@ -1,3 +1,0 @@
-name: ENLobbyManager
-version: '${project.version}'
-main: me.ethannetwork.ENLobbyManager
