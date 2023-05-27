@@ -7,7 +7,7 @@ public final class ENLobbyManager extends JavaPlugin {
     @Override
     public void onEnable() {
         // Plugin startup logic
-
+setEnabled(true);
     }
 
     @Override
